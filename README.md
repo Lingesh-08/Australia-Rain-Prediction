@@ -6,6 +6,7 @@ This project applies **machine learning** models to forecast whether it will rai
 ##Dataset
 **Rows**: ~145,000 observations  
 **Features**: 23 weather attributes 
+
 **Target**: 'RainTomorrow' (Yes/No)
 
 ##Methodology
