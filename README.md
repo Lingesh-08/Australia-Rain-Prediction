@@ -3,13 +3,12 @@ This project predicts whether it will rain tomorrow in Australia using machine l
 The dataset is taken from [Kaggle :Rain in Australia](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/data)
 This project applies **machine learning** models to forecast whether it will rain the next day **("RainTomorrow")** based on historical weather data
 
-##Dataset
+## Dataset
 **Rows**: ~145,000 observations  
-**Features**: 23 weather attributes 
-
+**Features**: 23 weather attributes  
 **Target**: 'RainTomorrow' (Yes/No)
 
-##Methodology
+## Methodology
 1. **Data Preprocessing**
    - Handled missing values using **Iterative Imputer.**
    - Encoded categorical variables **(One-Hot)**  
